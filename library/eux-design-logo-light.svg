@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="830" height="300" viewBox="584.2 849.7 829.6 300">
+  <defs>
+    <clipPath id="clip_1">
+      <path transform="matrix(1,0,0,-1,0,2000)" d="M0 2000H2000V0H0Z" />
+    </clipPath>
+    <clipPath id="clip_2">
+      <path transform="matrix(1,0,0,-1,0,2000)" d="M634.202 900.298H754.202V1020.3H634.202Z" />
+    </clipPath>
+  </defs>
+  <style>
+.eux-logo-cutouts { transform-origin: 734.202px 999.702px; animation: eux-logo-orbit 3.2s cubic-bezier(.5,0,.34,1) infinite; }
+.eux-logo-cutout-piece { transform-box: fill-box; transform-origin: center; animation: eux-logo-trim 3.2s cubic-bezier(.65,0,.35,1) infinite; }
+@keyframes eux-logo-orbit {
+  0%, 40% { transform: rotate(0deg); }
+  66% { transform: rotate(720deg); }
+  92%, 100% { transform: rotate(1080deg); }
+}
+@keyframes eux-logo-trim {
+  0%, 38% { transform: scale(1); }
+  62%, 68% { transform: scale(.08); }
+  94%, 100% { transform: scale(1); }
+}
+@media (prefers-reduced-motion: reduce) { .eux-logo-cutouts, .eux-logo-cutout-piece { animation: none; } }
+</style>
+  <g>
+    <g inkscape:groupmode="layer" inkscape:label="图层 1">
+      <g clip-path="url(#clip_1)">
+        <path transform="matrix(1,0,0,-1,884.2017,999.7017)" d="M0 0C0-82.843-67.157-150-150-150-232.843-150-300-82.843-300 0-300 82.843-232.843 150-150 150-67.157 150 0 82.843 0 0" fill="#2f98a8" class="eux-logo-disc" />
+        <g class="eux-logo-cutouts">
+          <g class="eux-logo-cutout-piece">
+            <g opacity=".600006">
+              <g clip-path="url(#clip_2)">
+                <path transform="matrix(1,0,0,-1,677.642,1019.7017)" d="M0 0H36.56V40H-41.438C-42.75 33.538-43.44 26.85-43.44 20-43.44-35.229 1.331-80 56.56-80 63.409-80 70.097-79.31 76.56-77.998V-36.56C70.3-38.78 63.571-40 56.56-40 30.487-40 8.256-23.278 0 0" fill="#ffffff" />
+              </g>
+            </g>
+          </g>
+          <g class="eux-logo-cutout-piece">
+            <path transform="matrix(1,0,0,-1,734.2017,899.70169)" d="M0 0C-6.85 0-13.538-.69-20-2.002V-43.44C-13.74-41.22-7.011-40 0-40 26.073-40 48.303-56.722 56.56-80H20V-120H97.998C99.31-113.538 100-106.85 100-100 100-44.771 55.229 0 0 0" fill="#ffffff" />
+          </g>
+        </g>
+        <path transform="matrix(1,0,0,-1,1171.7017,908.20169)" d="M0 0H-23L-36.5-19.17-50 0H-73L-48-35.5-73-71H-50L-36.5-51.83-23-71H0L-25-35.5Z" fill="#1d1d1f" class="eux-logo-word" />
+        <path transform="matrix(1,0,0,-1,1074.7017,908.20169)" d="M0 0H-10V-40C-10-47.732-16.268-54-24-54-31.732-54-38-47.732-38-40V0H-58V-44C-58-60.016-45.016-73-29-73-20.734-73-13.282-69.536-8-63.988V-71H10V0Z" fill="#1d1d1f" class="eux-logo-word" />
+        <path transform="matrix(1,0,0,-1,952.7017,961.20169)" d="M0 0V19H42V37H0V54H48V72H0-20V54 37 19 0-18H0 50V0Z" fill="#1d1d1f" class="eux-logo-word" />
+        <path transform="matrix(1,0,0,-1,0,2000)" d="M1188.702 890.298H1208.702V961.298H1188.702Z" fill="#1d1d1f" class="eux-logo-word" />
+        <path transform="matrix(1,0,0,-1,0,2000)" d="M1208.682 987.298H1188.682V967.298H1208.682Z" fill="#1d1d1f" class="eux-logo-word" />
+        <path transform="matrix(1,0,0,-1,1350.7017,1036.7017)" d="M0 0C-8.266 0-15.718-3.464-21-9.012V-2H-39V-73H-29-19V-33C-19-25.268-12.732-19-5-19 2.732-19 9-25.268 9-33V-73H29V-29C29-12.984 16.016 0 0 0" fill="#1d1d1f" class="eux-logo-word" />
+        <path transform="matrix(1,0,0,-1,0,2000)" d="M1393.702 910.298H1413.702V890.298H1393.702Z" fill="#1d1d1f" class="eux-logo-word" />
+        <path transform="matrix(1,0,0,-1,962.2017,1091.7017)" d="M0 0H-10.5V55H0C15.188 55 27.5 42.688 27.5 27.5 27.5 12.312 15.188 0 0 0M2.5 72H-9.5-29.5V-18H-9.5 2.5C27.353-18 47.5 2.147 47.5 27 47.5 51.853 27.353 72 2.5 72" fill="#1d1d1f" class="eux-logo-word" />
+        <path transform="matrix(1,0,0,-1,1276.8067,1114.7017)" d="M0 0C-2.307-6.968-8.863-12-16.605-12-24.347-12-30.903-6.968-33.21 0H-53.7C-51.038-18.103-35.447-32-16.605-32 2.237-32 17.828-18.103 20.49 0Z" fill="#2f98a8" class="eux-logo-smile" />
+        <path transform="matrix(1,0,0,-1,1139.7017,1111.7017)" d="M0 0C-18.748 0-33 10.541-33 23.497V23.991H-14.29C-14.29 23.991-13 16.989 0 16.989 7.745 16.989 14.29 19.969 14.29 23.497 14.29 26.784 9.059 27.959 1.142 29.736L-.109 30.018C-1.809 30.401-3.48 30.753-5.113 31.097-13.106 32.78-20.009 34.234-25.433 38.207-29.933 41.505-32.029 46.048-32.029 52.503-32.029 64.908-17.661 75 0 75 17.661 75 32.029 64.908 32.029 52.503 32.029 52.156 32.014 51.813 31.991 51.471L31.962 51.009H13.385L13.324 51.432C12.763 55.306 6.695 58.011 0 58.011-6.677 58.011-12.319 55.489-12.319 52.503-12.319 48.323-2.852 46.541 6.305 44.817 13.551 43.454 21.044 42.044 25.101 39.356 31.255 35.277 34 30.386 34 23.497 34 10 18.748 0 0 0" fill="#1d1d1f" class="eux-logo-word" />
+        <path transform="matrix(1,0,0,-1,1260.2017,1091.7017)" d="M0 0C-9.665 0-17.5 7.835-17.5 17.5-17.5 27.165-9.665 35 0 35 9.665 35 17.5 27.165 17.5 17.5 17.5 7.835 9.665 0 0 0M37.5 53H20.5V48.895C14.607 52.751 7.568 55 0 55-20.711 55-37.5 38.211-37.5 17.5-37.5-3.211-20.711-20 0-20 20.711-20 37.5-3.211 37.5 17.5 37.5 18.003 37.482 18.502 37.462 19H37.5Z" fill="#1d1d1f" class="eux-logo-word" />
+        <path transform="matrix(1,0,0,-1,1039.4326,1068.7017)" d="M0 0C2.289 8.647 9.815 15 18.769 15 27.724 15 35.249 8.647 37.538 0ZM54.537-13C55.016-10.577 55.269-8.069 55.269-5.5 55.269 15.211 38.927 32 18.769 32-1.389 32-17.731 15.211-17.731-5.5-17.731-26.211-1.389-43 18.769-43 33.545-43 46.261-33.974 52.003-21H31.506C28.088-24.108 23.643-26 18.769-26 10.521-26 3.484-20.608 .635-13Z" fill="#1d1d1f" class="eux-logo-word" />
+      </g>
+    </g>
+  </g>
+</svg>
